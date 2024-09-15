@@ -1,2 +1,6 @@
-# Data-Visualisation-Introduction
- This assignment explores the fundamentals of data visualisation, focusing on applying key principles and methodologies to create clear, effective visual representations of complex datasets. It aims to demonstrate how systematic approaches can enhance data interpretation and decision-making.
+# About
+
+The purpose of this assignment is to explore the fundamental principles of data visualisation by applying systematic methodologies to various datasets. The report covers key concepts such as visual perception, design principles, and the application of the Grammar of Graphics framework, all aimed at enhancing the clarity, usability, and effectiveness of data visualisations. By leveraging perceptual tools and refining raw, unstructured data, the assignment demonstrates how visualisation techniques can transform complex information into clear, actionable insights that support decision-making. Each section of the report includes detailed visual examples, showcasing how these principles guide the creation of compelling and informative data representations.
+
+More infromation @ []()
+See here for Jupyter Notebook for Graphs from Report []()
